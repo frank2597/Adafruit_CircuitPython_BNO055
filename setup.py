@@ -26,7 +26,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/x-rst",
     # The project's main homepage.
-    url="https://github.com/adafruit/Adafruit_CircuitPython_BNO055",
+    url="https://github.com/frank2597/Adafruit_CircuitPython_BNO055",
     # Author details
     author="Radomir Dopieralski",
     author_email="circuitpython@adafruit.com",
